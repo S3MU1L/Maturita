@@ -13,6 +13,7 @@ public class uloha2 {
 			FileReader f = new FileReader("C:\\Users\\PC\\Downloads\\siet.txt");
 			BufferedReader vstup = new BufferedReader(f);
 			String riadok = "";
+			//leakol som si ip, ups
 			int myip[] = {192,168,1,16};
 			while ((riadok = vstup.readLine())!= null) {
 				String data[] = riadok.split(" ");
