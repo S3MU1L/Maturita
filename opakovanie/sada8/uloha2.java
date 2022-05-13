@@ -15,7 +15,7 @@ public class uloha2 {
 		int pocslov = 0;
 		for (int i = 0; i < vety.length; i++) {
 			String slova [] = vety[i].split(" ");
-			pocslov+=slova.length;
+			pocslov += slova.length;
 			
 		}
 		System.out.println("pocet slov : "+ pocslov);
