@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class lopticka {
+public class uloha2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
